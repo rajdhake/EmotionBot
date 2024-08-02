@@ -1,28 +1,14 @@
-# EmotionBot
+# EmotionBot-  try it - https://emotionbot-4e4vu7klnlivhgfmakhnpn.streamlit.app/
 
 ## Overview
 This is a Streamlit web application designed to identify six human emotions: Joy, Fear, Anger, Love, Sadness, and Surprise. The app leverages machine learning and deep learning models that have been trained on preprocessed text data.
 
-## Requirements
-Make sure you have the required packages installed:
-```bash
-pip install scikit-learn==1.3.2
-pip install streamlit numpy nltk
-pip install tensorflow==2.15.0
-## Usage
-# Model and Files
-The app uses the following saved files:
 
-logistic_regresion.pkl: Pickle file containing the logistic regression model.
-tfidf_vectorizer.pkl: Pickle file containing the TF-IDF vectorizer.
-label_encoder.pkl: Pickle file containing the label encoder.
-## Functionality
-Enter text in the input box.
-Click the "Predict" button to see the predicted emotion and probability.
-Feel free to modify the app, improve the model, or add more features based on your needs.
+<img width="861" alt="image" src="https://github.com/user-attachments/assets/524f3345-1f1e-4d2a-aaa5-66873218c2ee">
 
-# Credits
-This app is created by Raj Dhake
+<img width="855" alt="image" src="https://github.com/user-attachments/assets/a2c6e9d2-f4ac-4b24-9376-e85e9d83a2c0">
 
-# License
-This project is licensed under the MIT License 
+<img width="803" alt="image" src="https://github.com/user-attachments/assets/c94cbb99-c501-44b3-b3db-3ceae910508a">
+
+
+
